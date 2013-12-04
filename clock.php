@@ -8,7 +8,7 @@
 	<title>Clock In</title>
 </head>
 <style type="text/css">
-	.container{width:960px; margin: 0 auto; min-height:505px; background-color:blue;}
+	.container{width:1040px; margin: 0 auto; min-height:505px; background-color:blue;}
 
 </style>
 <body>
